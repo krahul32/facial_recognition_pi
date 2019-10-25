@@ -18,6 +18,6 @@ Modules used:
 
 3.) Numpy
 
-Follow this amazing tutorial for installing opencv for Raspberry pi:
+Follow this tutorial for installing opencv for Raspberry pi:
 
 https://www.pyimagesearch.com/2017/09/04/raspbian-stretch-install-opencv-3-python-on-your-raspberry-pi        
